@@ -1,7 +1,5 @@
 # student-management-frontend
-Repository for frontend for a student management system
 
-# Student Management Mobile - Frontend
 
 ## Overview
 This is the frontend of the Student Management Mobile application, built using React Native. It provides an intuitive UI for managing student records, attendance, and performance.
